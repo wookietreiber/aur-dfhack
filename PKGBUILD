@@ -2,7 +2,7 @@
 
 pkgname=dfhack
 pkgver=0.44.05
-_pkgver=$pkgver-alpha1
+_pkgver=$pkgver-r1
 pkgrel=1
 pkgdesc="memory hacking library for Dwarf Fortress and a set of tools that use it"
 arch=('x86_64' 'i686')
